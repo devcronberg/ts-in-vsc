@@ -1,0 +1,23 @@
+{
+  "name": "ts-in-vsc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devcronberg/ts-in-vsc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devcronberg/ts-in-vsc/issues"
+  },
+  "homepage": "https://github.com/devcronberg/ts-in-vsc#readme",
+  "devDependencies": {
+    "ts-node": "^8.4.1",
+    "typescript": "^3.6.4"
+  }
+}
