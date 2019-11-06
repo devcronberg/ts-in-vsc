@@ -11,4 +11,4 @@ npm install -g typescript
 
 og herefter
 
-ts-node test.ts
+ts-node test.ts eller F5 (i VS COde)
