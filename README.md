@@ -5,8 +5,8 @@ Simpelt repository der viser direkte ts afvikling i vsc med ts-node.
 Brug
 
 ```
-npm install -g ts-node
 npm install -g typescript
+npm install -g ts-node
 ```
 
 og herefter
