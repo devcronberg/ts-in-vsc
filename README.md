@@ -2,13 +2,15 @@
 
 Simpelt repository der viser direkte ts afvikling i vsc med ts-node.
 
-Brug
+```
+npm i 
+```
+
+samt evt 
 
 ```
 npm install -g typescript
 npm install -g ts-node
 ```
 
-og herefter
-
-ts-node test.ts eller F5 (i VS COde)
+og herefter F5 (i VS Code)
