@@ -16,12 +16,14 @@ npm install -g ts-node
 npm install -g tslint
 ```
 
-Install extensions in VSC
+Extensions i VSC
 
 - Prettier
 - ESLint
 
 Ref:
 
+- https://www.typescriptlang.org/docs/handbook/intro.html
+- https://learntypescript.dev/
 - https://typescript-eslint.io/docs/linting/
 - https://khalilstemmler.com/blogs/typescript/eslint-for-typescript/
