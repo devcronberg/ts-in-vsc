@@ -2,7 +2,8 @@
 
 Simpelt repository der viser direkte ts afvikling i vsc med ts-node.
 
-- Installer Node.JS
+- Installer NodeJS
+- Fra konsol
 
 ```
 npm install -g typescript
@@ -14,17 +15,21 @@ npm install -g tslint
   - Extensions i VSC
     - Prettier
     - ESLint
+- Genstart VSC
 
-- Hent repository (Grøn knap)
-- I selve mappen kør
+- Hent repository (Grøn knap) og gem i tom mappe
+- Åbn konsol i selve mappen og kør
 
 ```
 npm i
 ```
 
-- åbn VSC (i mappe skrive "code .", klik på test.ts og tryk F5 eller Ctrl+F5
-
-
+- åbn VSC
+  - evt fra konsol i selve mappen ved at skrive "code .",
+- Klik på test.ts og tryk Ctrl+F5
+- Sæt et breakpoint på linje 7 (sæt med F9)
+- Klik på F5 og bemærk at afvikling stopper på linje 7
+  - Stop med Shift+F5
 
 Ref:
 
