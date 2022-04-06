@@ -22,7 +22,7 @@ npm install -g tslint
 npm i
 ```
 
-- åbn VSC, klik på test.ts og tryk F5 eller Ctrl+F5
+- åbn VSC (i mappe skrive "code .", klik på test.ts og tryk F5 eller Ctrl+F5
 
 
 
