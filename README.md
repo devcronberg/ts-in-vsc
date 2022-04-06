@@ -14,6 +14,7 @@ npm install -g tslint
 - Installer Visual Studio Code
   - Extensions i VSC
     - Prettier
+      - Evt Settings->Format on save
     - ESLint
 - Genstart VSC
 
